@@ -54,8 +54,8 @@ A simple machine learning project using Logistic Regression to classify whether 
 
 🔮 Future Improvements
 
-- Add confusion matrix and classification report
 - Hyperparameter tuning using GridSearchCV
 - Try other models (Random Forest, SVM)
 - Deploy using Streamlit or Flask
+
 
